@@ -1,8 +1,9 @@
 // create a function
-// Function <functionName>(){function body} ---> Function Syntax
 // 1. Function definition is a one time process
-function  greetMyStudents(name){    // I will recieve the formal arguments
-    console.log('hello');
+function  greetMyStudents(name){    
+// It will recieve the formal arguments
+// Function Body (Inside this I can write many Statements)
+    console.log('hello'); //statements = Instructions 
 
 }
 // 2. Function calling/Invocation Call/Invoke  is a many time calling
